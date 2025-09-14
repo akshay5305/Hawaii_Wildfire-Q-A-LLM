@@ -69,6 +69,9 @@ Tell me about the role of Maui Emergency Management Agency (MEMA) in the 2023 wi
 ```text
 MEMA coordinated emergency response, managed evacuation efforts, and worked with local and federal agencies to ensure public safety during the 2023 Hawaii wildfires.
 ```
+![alt text](demo/image1.png)
+![alt text](demo/image2.png)
+
 ---
 
 ## 📦 Checkpoints & Logs
